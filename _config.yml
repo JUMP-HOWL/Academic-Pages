@@ -23,9 +23,9 @@ repository               : "JUMP-HOWL/Academic-Pages"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Junhao Gong (龚俊豪)"
+  name             : "Junhao Gong"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Smart Sensing and Robotics (SSR) Group, Tsinghua SIGS. Supervised by Prof. Wenbo Ding. Research on robotic tactile sensing and manipulation."
+  bio              : "PhD student at Smart Sensing and Robotics (SSR) Group, Tsinghua SIGS.<br/>Supervised by Prof. Wenbo Ding.<br/>Research on robotic tactile sensing and manipulation."
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
   uri              : "https://ssr-group.net/"
