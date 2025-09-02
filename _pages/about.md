@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome! 🤗
-
 I am **Junhao Gong** (龚俊豪), a PhD student at the [Smart Sensing and Robotics (SSR) Group](https://ssr-group.net/), Tsinghua Shenzhen International Graduate School, under the supervision of Prof. **Wenbo Ding**.
 
-## Education Background
+## Education
 
 - **Ph.D. in Electronic Information** (2024 - Present)  
   Tsinghua Shenzhen International Graduate School, Tsinghua University  
@@ -26,7 +24,6 @@ My research focuses on **robotic tactile sensing and manipulation**, specificall
 
 - **Tactile Sensor Development**: Designing and developing advanced tactile sensors for robots
 - **Tactile-guided Manipulation**: Enabling robots to perform precise manipulation tasks using tactile feedback
-- **Sensor-Motor Integration**: Bridging the gap between sensing and actuation in robotic systems
 
 ## Contact
 
